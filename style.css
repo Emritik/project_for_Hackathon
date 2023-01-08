@@ -8,7 +8,7 @@ nav {
     word-spacing: 5px;
     margin-top: 5px;
 }
-section a{
+section a {
     
     font-size: 22px;
     font-weight: 500;
@@ -19,7 +19,7 @@ section a{
     border-radius: 10px;
     transition: all .7s ease;
 }
-section .log{
+section .log {
     background-color: aquamarine;
     color: #000;
 }

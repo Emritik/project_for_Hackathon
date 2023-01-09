@@ -42,13 +42,13 @@ ul li {
     list-style: none;
     display: inline-block;
 }
-ul li a{
+ul li a {
     color: #000;
     font-weight: 100;
     font-size: 25px;
     text-decoration: none;
 }
-nav:hover{
+nav:hover {
     background-color: cornsilk;
     color: whitesmoke;
 }

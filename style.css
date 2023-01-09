@@ -35,10 +35,10 @@ section .sign {
     background-color: #00b894;
     color: #000;
 }
-ul{
+ul {
     text-align: right;
 }
-ul li{
+ul li {
     list-style: none;
     display: inline-block;
 }

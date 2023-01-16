@@ -31,7 +31,7 @@ section .sign {
     background-color: #00b894;
     color: black;
 }
-.sign:hover{
+.sign:hover {
     background-color: #00b894;
     color: #000;
 }

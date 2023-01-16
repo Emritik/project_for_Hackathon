@@ -27,7 +27,7 @@ section .sign {
     background-color: aquamarine;
     color: #000;
 }
-.log:hover{
+.log:hover {
     background-color: #00b894;
     color: black;
 }

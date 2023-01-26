@@ -38,7 +38,7 @@ section .sign{
 ul{
     text-align: right;
 }
-ul li {
+ul li{
     list-style: none;
     display: inline-block;
 }

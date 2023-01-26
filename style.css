@@ -97,7 +97,7 @@ textarea{
     letter-spacing: 5px;
     transition: all .5s ease;
 }
-.btn1:hover{
+.btn1:hover {
     background-color: #000;
     color: #fff;
 }

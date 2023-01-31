@@ -30,7 +30,7 @@ section .sign{
 }
 .log:hover{
     background-color: #00b894;
-    color: black;
+    color: #000;
 }
 .sign:hover{
     background-color: #00b894;

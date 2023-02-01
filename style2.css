@@ -99,7 +99,7 @@ img{
     text-align: center;
     transition: background 0.5s, transform 0.5s;
 }
-.list div:hover{
+.list div:hover {
     background: #ff004f;
     transform: translateY(-30px);
 }

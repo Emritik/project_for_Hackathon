@@ -15,7 +15,7 @@ section a {
     text-decoration: none;
     color: #000;
     border-radius: 10px;
-    transition: all .7s ease;
+    transition: all 0.7s ease;
 }
 section .log{
     background-color: aquamarine;
